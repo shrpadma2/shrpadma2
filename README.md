@@ -9,7 +9,9 @@
 <p>This is what I have learned over the past few years. I am an innovative person by nature and graduate Data Science Student at the George Washington University & a tech enthusiast who loves working with data and solve problems using Machine Learning and Data Science.</p>
 
 <hr>
-<img align="right" src="https://giphy.com/gifs/web-shittyreactiongifs-4FQMuOKR6zQRO" height="150px" width="200px">
+<img align="right" src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" height="150px" width="200px">
+
+
 
 
 <h3>🚀 Some things you should know 👇</h3>
