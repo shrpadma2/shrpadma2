@@ -54,13 +54,13 @@
 <h3>How to reach me ✨</h3>
 <div>
     <a href="https://www.linkedin.com/in/shrpadma/">
-        <img src="assets\linkedin.svg" width="30px">
+        <img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="30px">
     </a>&nbsp;&nbsp;
     <a href="mailto: shreyas_sp98@gmail.com">
-        <img src="assets\gmail.svg" width="30px">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="30px">
     </a>&nbsp;&nbsp;
     <a href="https://github.com/shrpadma2/">
-        <img src="assets\github.svg" width="30px">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="30px">
     </a>&nbsp;&nbsp;
 </div>
 <hr>
