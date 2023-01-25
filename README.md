@@ -17,7 +17,6 @@
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
 <li>👨‍💻 I'm currently a <em>Data Science</em> student at <strong>George Washington University</strong>.</li>
-<li>👨‍🔬 I'm working as a <em>Research Data Scientist</em> for <strong>US Department of Agriculture</strong>.</li>
 <li>☁  Worked as a <em>Data Science intern</em> at <strong>Rubixe</strong></li>
 <li>☁  Worked as a <em>Programmer analyst</em> at <strong>Cognizant</strong></li>
 <li>👨‍🎓 Learning every day. I believe sharing is the best way of learning.</li>
