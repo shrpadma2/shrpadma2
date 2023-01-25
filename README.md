@@ -44,7 +44,7 @@
 <br>
 <hr>
 
-<img align="right" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" height="150px" width="200px">
+<img align="right" src="https://media.giphy.com/media/C4taUWWpR8frEpzcMM/giphy.gif" height="150px" width="200px">
 <h3>🦄 While I am not doing Data Science 😉</h3>
 <ul>
     <li>I like to game🏋️‍♂️</li>
